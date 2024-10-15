@@ -1,0 +1,1 @@
+INSERT INTO keys (key_value, description) VALUES ('ABCD1234', 'Master key for system A');

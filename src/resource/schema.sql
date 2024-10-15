@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS keys (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    key_value TEXT NOT NULL,
+    description TEXT
+);
