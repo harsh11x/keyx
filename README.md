@@ -31,7 +31,7 @@ To get started with KeyX, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/keyx.git
+    git clone https://github.com/harsh11x/keyx.git
     ```
     ```bash
     cd keyx
